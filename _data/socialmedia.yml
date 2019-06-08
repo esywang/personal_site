@@ -1,0 +1,44 @@
+- name: Email
+  url: mailto:eddieshengyuwang@gmail.com
+  class: icon-mail
+  title: "Email"
+
+- name: GitHub
+  url: https://github.com/eddieshengyuwang/
+  class: icon-github
+  title: "Github"
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCvEKrd2gGEIP2ms1NHNGi8A?view_as=subscriber
+  class: icon-youtube
+  title: "YouTube"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/eddie-wang-4266a19b/
+  class: icon-linkedin
+  title: "LinkedIn"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
