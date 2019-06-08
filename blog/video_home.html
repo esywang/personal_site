@@ -1,0 +1,13 @@
+---
+layout: video
+header: no
+---
+
+<<h1> Video </h1>
+<br>
+<br>
+{% for page in site.categories.video limit:1000 %}
+<div class="flex-video">
+	{{ page.iframe}}
+</div>
+{% endfor %}
