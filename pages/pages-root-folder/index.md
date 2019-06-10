@@ -11,8 +11,8 @@ header:
 
 widget1:
   title: "Tennis"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  url: '/blog/tennis_home/'
+  image: tennis.jpg
   text: "I've been playing tennis since I was 9 and I currently compete for the varsity team at my university. From time to time I'll post some tennis related content here."
 #widget2:
 #  title: "Why use this theme?"
@@ -22,14 +22,14 @@ widget1:
 
 widget2:
   title: "Code"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  url: '/blog/code_home/'
+  image: code.jpg
   text: 'A collection of my side development projects.'
 
 widget3:
   title: "Video"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  url: '/blog/video_home/'
+  image: video.jpg
   text: 'I like making videos that are interesting to me.'
 #
 # Use the call for action to show a button on the frontpage
