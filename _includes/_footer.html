@@ -12,11 +12,9 @@
             <h5 class="shadow-black"></h5>
           </div> -->
 
-          <div class="medium-6 large-5 columns">
-            <h2 class="shadow-black">Contact</h2>
-          </div>
-
-            <ul class="inline-list social-icons">
+          <div style="text-align:center;">
+            <h2 class="shadow-black" style="text-align: center;">Contact</h2>
+            <ul class="inline-list social-icons" style="display: inline-block;">
             {% for social_item in site.data.socialmedia %}
               {% if social_item.class == "icon-mail" %}
               <li><a href="{{ social_item.url }}" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
@@ -25,6 +23,7 @@
               {% endif %}
             {% endfor %}
             </ul>
+          </div>
         </nav>
         </div>
 
