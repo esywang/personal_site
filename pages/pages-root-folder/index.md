@@ -6,14 +6,14 @@
 #
 layout: frontpage
 header:
-  title: Eddie Wang
+  title: ""
   image_fullwidth: header_unsplash_12.jpg
 
 widget1:
   title: "Tennis"
   url: '/blog/tennis_home/'
   image: tennis.jpg
-  text: "I've been playing tennis since I was 9 and I currently compete for the varsity team at my university. From time to time I'll post some tennis related content here."
+  text: "I've been playing tennis since I was 9 and I currently compete for the varsity team at my university. From time to time, I'll post some tennis related content here."
 #widget2:
 #  title: "Why use this theme?"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'

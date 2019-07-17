@@ -1,7 +1,7 @@
 ---
 categories:
     - video
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/EB4aZ4nlCV4' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a
@@ -13,7 +13,7 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0y
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/watch?v=EB4aZ4nlCV4"
+    contentURL: "https://www.youtube.com/watch?v=EB4aZ4nlCV4"
+    thumbnailUrl: "http://img.youtube.com/vi/EB4aZ4nlCV4/maxresdefault.jpg"
 ---
