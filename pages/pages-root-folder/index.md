@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: ""
-  image_fullwidth: swiss_bridge.jpeg
+  image_fullwidth: swiss_bridge.jpg
 
 widget1:
   title: "Tennis"
