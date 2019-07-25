@@ -7,6 +7,7 @@ categories:
 header: no
 image:
     title: leopard.jpg
+    thumb: leopard.png
     caption: Photo by Geran de Klerk on Unsplash.
     caption_url: https://unsplash.com/photos/wYy3rvvgjAU
 show_meta: false
