@@ -29,7 +29,7 @@ format: post
 			</header>
 
 
-			{% if page.teaser %}
+			{% if page.teaser and page.show_teaser == true %}
 			<p class="teaser" itemprop="description">
 				{{ page.teaser }}
 			</p>
