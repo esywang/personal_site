@@ -19,13 +19,13 @@ show_teaser: false
 <p style="font-size: 1.1rem;"> This is called an <b>unforced error</b>. Unforced errors are extremely common in the sport; plenty of them committed in a single match ranging from beginners to professionals. Because making unforced errors are inevitable in the sport, it is crucial to know how to handle these mistakes and move on past them. One such technique is to instill a short term memory loss. Forget about the last point you played and focus on the next. </p>
 
 <p style="font-size: 1.1rem;">
-But why? </p>
+<i> But why?</i> </p>
 
 <p style="font-size: 1.1rem;">
 Because once you start thinking, your body gets tight, your strokes become heavy, and you dwell more and more about the immutable past – all of which hinder your physical and mental states for peak performance.</p>
 
 <p style="font-size: 1.1rem;">
-Okay, so how?
+<i>Okay, so how?</i>
 </p>
 
 <p style="font-size: 1.1rem;">
