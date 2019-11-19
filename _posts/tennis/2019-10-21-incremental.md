@@ -17,7 +17,7 @@ show_teaser: false
 <p style="font-size: 1.1rem;">One of the simplest statistics in tennis is the percentage of points you win. One would think that the top players in the world probably dominate in this statistic, perhaps by winning 70-90% of all the points they play. After all, if you compare it something like school, students probably have to score above 95% in their tests and courses to become the top in their academic class.</p>
 
 <p style="font-size: 1.1rem;">
-Thus it might surprise you that the top tennis players only win <b>barely</b> over 50% of all the points they play on average in a season. For example, in 2016 the top 10 tennis players on average won (only) 53.2% of all the points they played (<a href="https://www.atptour.com/en/news/infosys-winning-percentages-july-2016" target="\_blank" >https://www.atptour.com/en/news/infosys-winning-percentages-july-2016 </a>). <b>These players win almost all their matches despite losing close to half of all of the points they play</b>.
+It might surprise you that the top tennis players only win <b>barely</b> over 50% of all the points they play on average in a season. For example, in 2016 the top 10 tennis players on average won (only) 53.2% of all the points they played (<a href="https://www.atptour.com/en/news/infosys-winning-percentages-july-2016" target="\_blank" >https://www.atptour.com/en/news/infosys-winning-percentages-july-2016 </a>). <b>These players win almost all their matches despite losing close to half of all of the points they play</b>.
 </p>
 
 <p style="font-size: 1.1rem;"><i>How can this be?</i></p>
