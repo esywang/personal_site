@@ -17,7 +17,7 @@ show_teaser: false
 <p style="font-size: 1.1rem;">One thing people will describe about Roger Federer’s game is that he is effortless on the court. His footwork is graceful in gliding to all of his shots and his hitting strokes are loose like an elastic.</p>
 
 <br>
-<video class="right" src="/images/federer_forehand.mp4" preload loop autoplay
+<video class="right" src="/images/federer_forehand.mp4" preload loop autoplay muted
 style="
     margin: 0 auto;
     display: block;
