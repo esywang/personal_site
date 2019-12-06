@@ -7,12 +7,12 @@
 layout: frontpage
 header:
   title: ""
-  image_fullwidth: swiss_bridge.jpg
+  image_fullwidth: 'swiss_bridge.jpg'
 
 widget1:
-  title: "Tennis"
+  title: "Tennis Blog"
   url: '/blog/tennis_home/'
-  image: tennis.jpg
+  image: 'tennis.jpg" alt= "eddie tennis"'
   text: "I've been playing tennis since I was 9 and I currently compete for the varsity team at my university. From time to time, I'll post some tennis related content here."
 #widget2:
 #  title: "Why use this theme?"
@@ -23,13 +23,13 @@ widget1:
 widget2:
   title: "Code"
   url: '/blog/code_home/'
-  image: code.jpg
+  image: 'code.jpg" alt= "eddie code"'
   text: 'A collection of my side development projects.'
 
 widget3:
   title: "Video"
   url: '/blog/video_home/'
-  image: video.jpg
+  image: 'video.jpg" alt= "eddie video"'
   text: 'I like making videos that are interesting to me.'
 #
 # Use the call for action to show a button on the frontpage
